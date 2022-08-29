@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waterwolf92
+- 👋 Hi, I’m Joaquin A. Glover
 - 👀 I’m interested in ... IDFK
 - 🌱 I’m currently learning ... CS II Honors in Highschool
 - 💞️ I’m looking to collaborate on ...
